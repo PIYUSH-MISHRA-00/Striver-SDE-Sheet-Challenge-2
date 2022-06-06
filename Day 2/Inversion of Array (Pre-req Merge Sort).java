@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
 	static long res = 0;
     public static long getInversions(long arr[], int n) {
         // Write your code here.
